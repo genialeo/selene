@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>SELENE</title>
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/sb-admin.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <!-- JavaScript -->
+    <script src="https://maps.googleapis.com/maps/api/js?libraries=geometry&sensor=false"></script>
+    <script src="assets/js/jquery-1.10.2.min.js"></script>
+    <script src="assets/js/bootstrap.js"></script>
+
+  </head>
+
+  <body>
+
+    <div id="wrapper">
+      <!-- Sidebar -->
+      <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">SELENE</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+          
+          <ul class="nav navbar-nav side-nav" id="left-panel">
+            <li class="active"><a href="index.html"><i class="fa fa-dashboard"></i> Uno</a></li>
+            <li><a href="charts.html"><i class="fa fa-bar-chart-o"></i> Due</a></li>
+            <li><a href="tables.html"><i class="fa fa-table"></i> Tre</a></li>
+          </ul>
+
+          <ul class="nav navbar-nav" id="main-navbar">
+            <li>
+              <form class="navbar-form navbar-left" role="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" placeholder="Cerca">
+                </div>
+              </form>
+            </li>
+            <li class="dropdown">
+              <button class="btn dropdown-toggle navbar-btn" type="button" id="dropdownMenu1" data-toggle="dropdown">
+                Cosa
+                <span class="caret"></span>
+              </button>
+              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                <li role="presentation" class="dropdown-header">Per distanza</li>
+                <li role="presentation"><a href="#" data-cosa="5">Entro 5 Km</a></li>
+                <li role="presentation"><a href="#" data-cosa="25">Entro 25 Km</a></li>
+                <li role="presentation"><a href="#" data-cosa="100">Entro 100 Km</a></li>
+                <li role="presentation" class="divider"></li>
+                <li role="presentation" class="dropdown-header">Per altre proprietà</li>
+                <li role="presentation"><a href="#" data-cosa="ip_sede">IP Address</a></li>
+                <li role="presentation"><a href="#" data-cosa="alias">Alias</a></li>
+                <li role="presentation"><a href="#" data-cosa="cpe">CPE</a></li>
+                <li role="presentation"><a href="#" data-cosa="codice_nis">Codice</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </nav>
+
+      <div id="page-wrapper">
+        <section id="map-canvas"></section>  
+      </div><!-- /#page-wrapper -->
+
+    </div><!-- /#wrapper -->
+
+    <!-- JavaScript -->
+    <script src="assets/js/app.js"></script>
+    <script type="text/javascript">     
+      google.maps.event.addDomListener(window, 'load', function () {selene.init();});
+      google.maps.event.addDomListener(window, 'resize', function () {selene.resize();});
+    </script>
+  </body>
+</html>
