@@ -1,0 +1,2651 @@
+[
+	{
+		"nome": "Sede 1",
+		"stato": 1,
+		"ip": "10.1.2.3",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA CASILINA 1072/A    ROMA",
+		"latitude": 41.867177,
+		"longitude": 12.592668
+	}, {
+		"nome": "Sede 2",
+		"stato": 1,
+		"ip": "10.1.2.4",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA ODERISI DA GUBBIO 80/82    ROMA",
+		"latitude": 41.86683,
+		"longitude": 12.465874
+	}, {
+		"nome": "Sede 3",
+		"stato": 1,
+		"ip": "10.1.2.5",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA VETULONIA 10 A-B   ROMA",
+		"latitude": 41.876778,
+		"longitude": 12.503997
+	}, {
+		"nome": "Sede 4",
+		"stato": 1,
+		"ip": "10.1.2.6",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA DELLE ZOCCOLETTE 5 ROMA",
+		"latitude": 41.891909,
+		"longitude": 12.474508
+	}, {
+		"nome": "Sede 5",
+		"stato": 1,
+		"ip": "10.1.2.7",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA DELLE CAVE 64  ROMA",
+		"latitude": 41.871664,
+		"longitude": 12.529176
+	}, {
+		"nome": "Sede 6",
+		"stato": 1,
+		"ip": "10.1.2.8",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA DONATO MENICHELLA 70   ROMA",
+		"latitude": 41.947225,
+		"longitude": 12.587327
+	}, {
+		"nome": "Sede 7",
+		"stato": 0,
+		"ip": "10.1.2.9",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA GIACOMO TREVIS 82/84   ROMA",
+		"latitude": 41.865374,
+		"longitude": 12.498428
+	}, {
+		"nome": "Sede 8",
+		"stato": 1,
+		"ip": "10.1.2.10",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA G. SACCONI 4/B ROMA",
+		"latitude": 41.892916,
+		"longitude": 12.48252
+	}, {
+		"nome": "Sede 9",
+		"stato": 1,
+		"ip": "10.1.2.11",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA CASSIA   1173  ROMA",
+		"latitude": 41.981495,
+		"longitude": 12.415524
+	}, {
+		"nome": "Sede 10",
+		"stato": 1,
+		"ip": "10.1.2.12",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA TORINO 7   ROMA",
+		"latitude": 41.900066,
+		"longitude": 12.496475
+	}, {
+		"nome": "Sede 11",
+		"stato": 1,
+		"ip": "10.1.2.13",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA FONTEIANA 69/B ROMA",
+		"latitude": 41.881543,
+		"longitude": 12.454727
+	}, {
+		"nome": "Sede 12",
+		"stato": 1,
+		"ip": "10.1.2.14",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA COLLINA 50 ROMA",
+		"latitude": 41.909294,
+		"longitude": 12.496957
+	}, {
+		"nome": "Sede 13",
+		"stato": 0,
+		"ip": "10.1.2.15",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA DELL'ORSA MINORE 19/21/23  ROMA",
+		"latitude": 41.811594,
+		"longitude": 12.447008
+	}, {
+		"nome": "Sede 14",
+		"stato": 1,
+		"ip": "10.1.2.16",
+		"tipologia": "Tipo 1",
+		"indirizzo": "PIAZZA DI SPAGNA 38    ROMA",
+		"latitude": 41.904893,
+		"longitude": 12.482929
+	}, {
+		"nome": "Sede 15",
+		"stato": 1,
+		"ip": "10.1.2.17",
+		"tipologia": "Tipo 1",
+		"indirizzo": "LARGO CADUTI EL ALAMEIN 9  ROMA",
+		"latitude": 41.849287,
+		"longitude": 12.577306
+	}, {
+		"nome": "Sede 16",
+		"stato": 0,
+		"ip": "10.1.2.18",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA DON PASQUINO BORGHI 111    ROMA",
+		"latitude": 41.807632,
+		"longitude": 12.446887
+	}, {
+		"nome": "Sede 17",
+		"stato": 1,
+		"ip": "10.1.2.19",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA LAURINA 23-24  ROMA",
+		"latitude": 41.908407,
+		"longitude": 12.478561
+	}, {
+		"nome": "Sede 18",
+		"stato": 1,
+		"ip": "10.1.2.20",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA LUIGI SETTEMBRINI 9    ROMA",
+		"latitude": 41.914447,
+		"longitude": 12.467761
+	}, {
+		"nome": "Sede 19",
+		"stato": 1,
+		"ip": "10.1.2.21",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA ANAPO 26   ROMA",
+		"latitude": 41.925728,
+		"longitude": 12.507452
+	}, {
+		"nome": "Sede 20",
+		"stato": 1,
+		"ip": "10.1.2.22",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA AURELIANA 32/36    ROMA",
+		"latitude": 41.906593,
+		"longitude": 12.495702
+	}, {
+		"nome": "Sede 21",
+		"stato": 1,
+		"ip": "10.1.2.23",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA PALESTRO 30 ROMA",
+		"latitude": 41.901422,
+		"longitude": 12.51257
+	}, {
+		"nome": "Sede 22",
+		"stato": 1,
+		"ip": "10.1.2.24",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA FARINI 62  ROMA",
+		"latitude": 41.898359,
+		"longitude": 12.49977
+	}, {
+		"nome": "Sede 23",
+		"stato": 0,
+		"ip": "10.1.2.25",
+		"tipologia": "Tipo 1",
+		"indirizzo": "PIAZZA DELLE CINQUE SCOLE 37   ROMA",
+		"latitude": 41.89237,
+		"longitude": 12.476668
+	}, {
+		"nome": "Sede 24",
+		"stato": 1,
+		"ip": "10.1.2.26",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA ARTURO DONAGGIO 19/B   ROMA",
+		"latitude": 41.925439,
+		"longitude": 12.413216
+	}, {
+		"nome": "Sede 25",
+		"stato": 1,
+		"ip": "10.1.2.27",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA DEI TRAGHETTI 21-23    ROMA",
+		"latitude": 41.735696,
+		"longitude": 12.279648
+	}, {
+		"nome": "Sede 26",
+		"stato": 1,
+		"ip": "10.1.2.28",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA DELLA PISANA 249/251   ROMA",
+		"latitude": 41.877385,
+		"longitude": 12.415531
+	}, {
+		"nome": "Sede 27",
+		"stato": 1,
+		"ip": "10.1.2.29",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA RAPAGNANO 10   ROMA",
+		"latitude": 41.983911,
+		"longitude": 12.513303
+	}, {
+		"nome": "Sede 28",
+		"stato": 1,
+		"ip": "10.1.2.30",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA G. CASELLI 32  ROMA",
+		"latitude": 41.869077,
+		"longitude": 12.4625
+	}, {
+		"nome": "Sede 29",
+		"stato": 1,
+		"ip": "10.1.2.31",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA EURIALO 33/B   ROMA",
+		"latitude": 41.873526,
+		"longitude": 12.526496
+	}, {
+		"nome": "Sede 30",
+		"stato": 1,
+		"ip": "10.1.2.32",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA GIUSEPPE BERTO 21/27   ROMA",
+		"latitude": 41.842758,
+		"longitude": 12.490639
+	}, {
+		"nome": "Sede 31",
+		"stato": 1,
+		"ip": "10.1.2.33",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA NETTUNENSE 224 ALBANO LAZIALE",
+		"latitude": 41.694631,
+		"longitude": 12.64855
+	}, {
+		"nome": "Sede 32",
+		"stato": 1,
+		"ip": "10.1.2.34",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA AMSTERDAM 142  ROMA",
+		"latitude": 41.824739,
+		"longitude": 12.45156
+	}, {
+		"nome": "Sede 33",
+		"stato": 1,
+		"ip": "10.1.2.35",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA BARBERINI 111  ROMA",
+		"latitude": 41.90493,
+		"longitude": 12.492714
+	}, {
+		"nome": "Sede 34",
+		"stato": 1,
+		"ip": "10.1.2.36",
+		"tipologia": "Tipo 1",
+		"indirizzo": "CORSO DEL POPOLO 15 P 2 INT 7  GROTTAFERRATA",
+		"latitude": 41.788821,
+		"longitude": 12.66965
+	}, {
+		"nome": "Sede 35",
+		"stato": 1,
+		"ip": "10.1.2.37",
+		"tipologia": "Tipo 1",
+		"indirizzo": "BORGO PIO 11   ROMA",
+		"latitude": 41.903718,
+		"longitude": 12.461651
+	}, {
+		"nome": "Sede 37",
+		"stato": 1,
+		"ip": "10.1.2.38",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA DI MEZZOCAMMINO 256    ROMA",
+		"latitude": 41.786669,
+		"longitude": 12.433605
+	}, {
+		"nome": "Sede 38",
+		"stato": 1,
+		"ip": "10.1.2.39",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA PALMIRO TOGLIATTI 1453 ROMA",
+		"latitude": 41.91408,
+		"longitude": 12.569998
+	}, {
+		"nome": "Sede 39",
+		"stato": 1,
+		"ip": "10.1.2.40",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA ADDA 111   ROMA",
+		"latitude": 41.916441,
+		"longitude": 12.500394
+	}, {
+		"nome": "Sede 40",
+		"stato": 1,
+		"ip": "10.1.2.41",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIALE REGINA MARGHERITA 192    ROMA",
+		"latitude": 41.914694,
+		"longitude": 12.504077
+	}, {
+		"nome": "Sede 41",
+		"stato": 0,
+		"ip": "10.1.2.42",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA TUSCOLANA 364  ROMA",
+		"latitude": 41.875002,
+		"longitude": 12.528331
+	}, {
+		"nome": "Sede 42",
+		"stato": 1,
+		"ip": "10.1.2.43",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA VAL MAGGIA 118 ROMA",
+		"latitude": 41.943694,
+		"longitude": 12.516802
+	}, {
+		"nome": "Sede 43",
+		"stato": 1,
+		"ip": "10.1.2.44",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA VICO VIGANO' 55/57/59  ROMA",
+		"latitude": 41.892916,
+		"longitude": 12.48252
+	}, {
+		"nome": "Sede 44",
+		"stato": 1,
+		"ip": "10.1.2.45",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA ORAZIO 20  POMEZIA",
+		"latitude": 41.668635,
+		"longitude": 12.498503
+	}, {
+		"nome": "Sede 45",
+		"stato": 1,
+		"ip": "10.1.2.46",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIALE CASTRO PRETORIO 124  ROMA",
+		"latitude": 41.907592,
+		"longitude": 12.5046
+	}, {
+		"nome": "Sede 46",
+		"stato": 1,
+		"ip": "10.1.2.47",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA DEI BANCHI VECCHI 8    ROMA",
+		"latitude": 41.897562,
+		"longitude": 12.467704
+	}, {
+		"nome": "Sede 47",
+		"stato": 1,
+		"ip": "10.1.2.48",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA XXV APRILE 55  COLLEFERRO",
+		"latitude": 41.725446,
+		"longitude": 13.00824
+	}, {
+		"nome": "Sede 49",
+		"stato": 1,
+		"ip": "10.1.2.49",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA BOTTEGHE OSCURE N. 17  ROMA",
+		"latitude": 41.894945,
+		"longitude": 12.479134
+	}, {
+		"nome": "Sede 50",
+		"stato": 1,
+		"ip": "10.1.2.50",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA ROMA 101   MANZIANA",
+		"latitude": 42.122913,
+		"longitude": 12.125525
+	}, {
+		"nome": "Sede 51",
+		"stato": 0,
+		"ip": "10.1.2.51",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA ROMA 17    MONTALTO DI CASTRO",
+		"latitude": 42.353231,
+		"longitude": 11.604522
+	}, {
+		"nome": "Sede 52",
+		"stato": 1,
+		"ip": "10.1.2.52",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VICOLO RANUCCI 4/A CIVITAVECCHIA",
+		"latitude": 42.091412,
+		"longitude": 11.794402
+	}, {
+		"nome": "Sede 53",
+		"stato": 1,
+		"ip": "10.1.2.53",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA DI SALONE 8/A  ROMA",
+		"latitude": 41.937629,
+		"longitude": 12.621337
+	}, {
+		"nome": "Sede 54",
+		"stato": 1,
+		"ip": "10.1.2.54",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA CINQUEFRONDI  118  ROMA",
+		"latitude": 41.836014,
+		"longitude": 12.585608
+	}, {
+		"nome": "Sede 55",
+		"stato": 1,
+		"ip": "10.1.2.55",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA ALBERTO ASCARI N. 261  ROMA",
+		"latitude": 41.834611,
+		"longitude": 12.505486
+	}, {
+		"nome": "Sede 56",
+		"stato": 1,
+		"ip": "10.1.2.56",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA MORGAGNI 2/E   ROMA",
+		"latitude": 41.909241,
+		"longitude": 12.508848
+	}, {
+		"nome": "Sede 57",
+		"stato": 1,
+		"ip": "10.1.2.57",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VICOLO IN ARCIONE 23   NETTUNO",
+		"latitude": 41.461698,
+		"longitude": 12.660277
+	}, {
+		"nome": "Sede 58",
+		"stato": 1,
+		"ip": "10.1.2.58",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA EMANUELE FILIBERTO N. 24   ROMA",
+		"latitude": 41.890089,
+		"longitude": 12.506854
+	}, {
+		"nome": "Sede 59",
+		"stato": 1,
+		"ip": "10.1.2.59",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA MARCHE 74  ROMA",
+		"latitude": 41.908975,
+		"longitude": 12.490107
+	}, {
+		"nome": "Sede 60",
+		"stato": 1,
+		"ip": "10.1.2.60",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA MONTERONE 83/A ROMA",
+		"latitude": 41.897497,
+		"longitude": 12.475582
+	}, {
+		"nome": "Sede 61",
+		"stato": 1,
+		"ip": "10.1.2.61",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA SALARIA 1378   ROMA",
+		"latitude": 42.001966,
+		"longitude": 12.518319
+	}, {
+		"nome": "Sede 62",
+		"stato": 1,
+		"ip": "10.1.2.62",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIALE PASTEUR N. 78    ROMA",
+		"latitude": 41.831486,
+		"longitude": 12.462565
+	}, {
+		"nome": "Sede 63",
+		"stato": 1,
+		"ip": "10.1.2.63",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA TUPINI 113 ROMA",
+		"latitude": 41.832686,
+		"longitude": 12.461793
+	}, {
+		"nome": "Sede 64",
+		"stato": 1,
+		"ip": "10.1.2.64",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA DELLE FRASCHE N. 5 ROMA",
+		"latitude": 41.895957,
+		"longitude": 12.490267
+	}, {
+		"nome": "Sede 65",
+		"stato": 1,
+		"ip": "10.1.2.65",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA DELLE FRASCHE 5    ROMA",
+		"latitude": 41.895957,
+		"longitude": 12.490267
+	}, {
+		"nome": "Sede 66",
+		"stato": 1,
+		"ip": "10.1.2.66",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA CALABRIA 17    ROMA",
+		"latitude": 41.909333,
+		"longitude": 12.491086
+	}, {
+		"nome": "Sede 67",
+		"stato": 1,
+		"ip": "10.1.2.67",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA ANNONE 71  ROMA",
+		"latitude": 41.923968,
+		"longitude": 12.514324
+	}, {
+		"nome": "Sede 68",
+		"stato": 1,
+		"ip": "10.1.2.68",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA LIBERO LEONARDI 4  ROMA",
+		"latitude": 41.848793,
+		"longitude": 12.592267
+	}, {
+		"nome": "Sede 69",
+		"stato": 1,
+		"ip": "10.1.2.69",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA ACHILLE BARILATTI 18   ROMA",
+		"latitude": 41.809737,
+		"longitude": 12.449893
+	}, {
+		"nome": "Sede 70",
+		"stato": 1,
+		"ip": "10.1.2.70",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA TACITO 33/VIA PLINIO 1/3   ROMA",
+		"latitude": 41.907522,
+		"longitude": 12.467122
+	}, {
+		"nome": "Sede 71",
+		"stato": 1,
+		"ip": "10.1.2.71",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA PIETRO BONFANTE 28 ROMA",
+		"latitude": 41.85901,
+		"longitude": 12.567461
+	}, {
+		"nome": "Sede 72",
+		"stato": 1,
+		"ip": "10.1.2.72",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA BALDO DEGLI UBALDI 36  ROMA",
+		"latitude": 41.898322,
+		"longitude": 12.431023
+	}, {
+		"nome": "Sede 73",
+		"stato": 1,
+		"ip": "10.1.2.73",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA ANTONIO TEMPESTA 7 ROMA",
+		"latitude": 41.881287,
+		"longitude": 12.540101
+	}, {
+		"nome": "Sede 74",
+		"stato": 1,
+		"ip": "10.1.2.74",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA PIETRO MAFFI 174   ROMA",
+		"latitude": 41.926559,
+		"longitude": 12.42036
+	}, {
+		"nome": "Sede 75",
+		"stato": 1,
+		"ip": "10.1.2.75",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA EMANUELE FILIBERTO 76  ROMA",
+		"latitude": 41.8918,
+		"longitude": 12.505985
+	}, {
+		"nome": "Sede 76",
+		"stato": 1,
+		"ip": "10.1.2.76",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIALE DELLE MEDAGLIE D'ORO 108/G-108/H ROMA",
+		"latitude": 41.912152,
+		"longitude": 12.443726
+	}, {
+		"nome": "Sede 77",
+		"stato": 1,
+		"ip": "10.1.2.77",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA S. MARINO 47/B/C   ROMA",
+		"latitude": 41.922524,
+		"longitude": 12.512796
+	}, {
+		"nome": "Sede 78",
+		"stato": 1,
+		"ip": "10.1.2.78",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA TIBURTINA 515  ROMA",
+		"latitude": 41.908736,
+		"longitude": 12.540686
+	}, {
+		"nome": "Sede 79",
+		"stato": 1,
+		"ip": "10.1.2.79",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA TIBERINA 25    ROMA",
+		"latitude": 42.001299,
+		"longitude": 12.494572
+	}, {
+		"nome": "Sede 80",
+		"stato": 1,
+		"ip": "10.1.2.80",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA FLAMINIA KM 33.600 RIGNANO FLAMINIO",
+		"latitude": 42.207441,
+		"longitude": 12.483966
+	}, {
+		"nome": "Sede 81",
+		"stato": 1,
+		"ip": "10.1.2.81",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA FLAMINIA N. 43/C   ROMA",
+		"latitude": 41.941877,
+		"longitude": 12.471782
+	}, {
+		"nome": "Sede 82",
+		"stato": 1,
+		"ip": "10.1.2.82",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA CARCIANO 29/31 ROMA",
+		"latitude": 41.931835,
+		"longitude": 12.612704
+	}, {
+		"nome": "Sede 83",
+		"stato": 1,
+		"ip": "10.1.2.83",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA ORTI DELLA FARNESINA 80/80-A   ROMA",
+		"latitude": 41.94272,
+		"longitude": 12.462085
+	}, {
+		"nome": "Sede 84",
+		"stato": 1,
+		"ip": "10.1.2.84",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA PADRE MASSARUTI N. 202/204 ROMA",
+		"latitude": 41.766579,
+		"longitude": 12.351438
+	}, {
+		"nome": "Sede 85",
+		"stato": 1,
+		"ip": "10.1.2.85",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA MAZZANO ROMANO 31  ROMA",
+		"latitude": 41.953176,
+		"longitude": 12.480298
+	}, {
+		"nome": "Sede 86",
+		"stato": 1,
+		"ip": "10.1.2.86",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA ANDREA MELDOLA 246/252 ROMA",
+		"latitude": 41.823077,
+		"longitude": 12.511021
+	}, {
+		"nome": "Sede 87",
+		"stato": 1,
+		"ip": "10.1.2.87",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA GIOVANNI DE CALVI 81   ROMA",
+		"latitude": 41.867277,
+		"longitude": 12.44645
+	}, {
+		"nome": "Sede 88",
+		"stato": 1,
+		"ip": "10.1.2.88",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA VITTORIO VENETO 108    ROMA",
+		"latitude": 41.908295,
+		"longitude": 12.488945
+	}, {
+		"nome": "Sede 89",
+		"stato": 1,
+		"ip": "10.1.2.89",
+		"tipologia": "Tipo 1",
+		"indirizzo": "P.ZZA DELLA ROTONDA 68 ROMA",
+		"latitude": 41.898611,
+		"longitude": 12.476873
+	}, {
+		"nome": "Sede 90",
+		"stato": 1,
+		"ip": "10.1.2.90",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA DELLA CONCILIAZIONE 43/A   ROMA",
+		"latitude": 41.902107,
+		"longitude": 12.46013
+	}, {
+		"nome": "Sede 91",
+		"stato": 1,
+		"ip": "10.1.2.91",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA NAZIONALE 222  ROMA",
+		"latitude": 41.90051,
+		"longitude": 12.492835
+	}, {
+		"nome": "Sede 92",
+		"stato": 1,
+		"ip": "10.1.2.92",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA SOLFERINO 12   ROMA",
+		"latitude": 41.903788,
+		"longitude": 12.501312
+	}, {
+		"nome": "Sede 93",
+		"stato": 1,
+		"ip": "10.1.2.93",
+		"tipologia": "Tipo 1",
+		"indirizzo": "CORSO VITTORIO EMANUELE II 252 ROMA",
+		"latitude": 41.897917,
+		"longitude": 12.468673
+	}, {
+		"nome": "Sede 94",
+		"stato": 1,
+		"ip": "10.1.2.94",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA M. BOLDETTI N.16   ROMA",
+		"latitude": 41.920471,
+		"longitude": 12.522318
+	}, {
+		"nome": "Sede 95",
+		"stato": 1,
+		"ip": "10.1.2.95",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA BONCOMPAGNI 16 ROMA",
+		"latitude": 41.908526,
+		"longitude": 12.494313
+	}, {
+		"nome": "Sede 96",
+		"stato": 1,
+		"ip": "10.1.2.96",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA COLUMELLA  9   POMEZIA",
+		"latitude": 41.671613,
+		"longitude": 12.500792
+	}, {
+		"nome": "Sede 97",
+		"stato": 1,
+		"ip": "10.1.2.97",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA GIAN LEONARDO CERUSO 24    ROMA",
+		"latitude": 41.852874,
+		"longitude": 12.502025
+	}, {
+		"nome": "Sede 98",
+		"stato": 1,
+		"ip": "10.1.2.98",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA DEGLI OLMI 69 B/C  ROMA",
+		"latitude": 41.878894,
+		"longitude": 12.577595
+	}, {
+		"nome": "Sede 99",
+		"stato": 1,
+		"ip": "10.1.2.99",
+		"tipologia": "Tipo 1",
+		"indirizzo": "VIA FEDERICO NANSEN 26 ROMA",
+		"latitude": 41.871155,
+		"longitude": 12.482364
+	}, {
+		"nome": "Sede 100",
+		"stato": 1,
+		"ip": "10.1.2.100",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA PIETRO ROVETTI 14  ROMA",
+		"latitude": 41.877943,
+		"longitude": 12.542465
+	}, {
+		"nome": "Sede 101",
+		"stato": 1,
+		"ip": "10.1.2.101",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA CIPRO 41   ROMA",
+		"latitude": 41.90664,
+		"longitude": 12.446415
+	}, {
+		"nome": "Sede 102",
+		"stato": 1,
+		"ip": "10.1.2.102",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA GENZANO 75/C   ROMA",
+		"latitude": 41.870483,
+		"longitude": 12.530998
+	}, {
+		"nome": "Sede 103",
+		"stato": 1,
+		"ip": "10.1.2.103",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA GIACOMO MATTEOTTI. 26  ANZIO",
+		"latitude": 41.447798,
+		"longitude": 12.62749
+	}, {
+		"nome": "Sede 104",
+		"stato": 1,
+		"ip": "10.1.2.104",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA NOCERA UMBRA 113   ROMA",
+		"latitude": 41.878444,
+		"longitude": 12.529258
+	}, {
+		"nome": "Sede 105",
+		"stato": 1,
+		"ip": "10.1.2.105",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA CASTELLAMARE 91    FIUMICINO",
+		"latitude": 41.848909,
+		"longitude": 12.20292
+	}, {
+		"nome": "Sede 106",
+		"stato": 1,
+		"ip": "10.1.2.106",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA ALOISIO ANGUILLARA 16  ANGUILLARA SABAZIA",
+		"latitude": 42.092231,
+		"longitude": 12.270166
+	}, {
+		"nome": "Sede 107",
+		"stato": 1,
+		"ip": "10.1.2.107",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA GIUSEPPE GARIBALDI 11  MONTELIBRETTI",
+		"latitude": 42.135828,
+		"longitude": 12.73785
+	}, {
+		"nome": "Sede 108",
+		"stato": 1,
+		"ip": "10.1.2.108",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA BOSSOLASCO 19  ROMA",
+		"latitude": 41.917312,
+		"longitude": 12.375707
+	}, {
+		"nome": "Sede 109",
+		"stato": 1,
+		"ip": "10.1.2.109",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA ILDEBRANDO VIVANTI 34  ROMA",
+		"latitude": 41.804227,
+		"longitude": 12.443649
+	}, {
+		"nome": "Sede 110",
+		"stato": 1,
+		"ip": "10.1.2.110",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA L. BERTARELLI 13   ROMA",
+		"latitude": 41.907652,
+		"longitude": 12.535066
+	}, {
+		"nome": "Sede 111",
+		"stato": 1,
+		"ip": "10.1.2.111",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA NOMENTANA 261  ROMA",
+		"latitude": 41.915375,
+		"longitude": 12.509291
+	}, {
+		"nome": "Sede 112",
+		"stato": 1,
+		"ip": "10.1.2.112",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA GIUSEPPE SACCONI 4/B   ROMA",
+		"latitude": 41.930553,
+		"longitude": 12.467305
+	}, {
+		"nome": "Sede 113",
+		"stato": 1,
+		"ip": "10.1.2.113",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA DI VAL MELAINA 163 ROMA",
+		"latitude": 41.950273,
+		"longitude": 12.526447
+	}, {
+		"nome": "Sede 114",
+		"stato": 1,
+		"ip": "10.1.2.114",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA DIEGO SIMONETTI 44 ROMA",
+		"latitude": 41.737728,
+		"longitude": 12.289058
+	}, {
+		"nome": "Sede 115",
+		"stato": 1,
+		"ip": "10.1.2.115",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA SISTINA 27 ROMA",
+		"latitude": 41.904391,
+		"longitude": 12.486349
+	}, {
+		"nome": "Sede 116",
+		"stato": 1,
+		"ip": "10.1.2.116",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA ERASMO 11  ROMA",
+		"latitude": 41.891926,
+		"longitude": 12.536233
+	}, {
+		"nome": "Sede 117",
+		"stato": 1,
+		"ip": "10.1.2.117",
+		"tipologia": "Tipo 2",
+		"indirizzo": "GALLERIA ESEDRA -VIA TORINO 95 ROMA",
+		"latitude": 41.892916,
+		"longitude": 12.48252
+	}, {
+		"nome": "Sede 118",
+		"stato": 1,
+		"ip": "10.1.2.118",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA PIA N. 22  VELLETRI",
+		"latitude": 41.691275,
+		"longitude": 12.77802
+	}, {
+		"nome": "Sede 119",
+		"stato": 1,
+		"ip": "10.1.2.119",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA FLAVIO STILICONE 21    ROMA",
+		"latitude": 41.861575,
+		"longitude": 12.556098
+	}, {
+		"nome": "Sede 120",
+		"stato": 1,
+		"ip": "10.1.2.120",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA FLAMINIA 196   ROMA",
+		"latitude": 41.920656,
+		"longitude": 12.472372
+	}, {
+		"nome": "Sede 121",
+		"stato": 1,
+		"ip": "10.1.2.121",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA NAZIONALE 243/B INTERNO 9  ROMA",
+		"latitude": 41.901394,
+		"longitude": 12.494184
+	}, {
+		"nome": "Sede 122",
+		"stato": 1,
+		"ip": "10.1.2.122",
+		"tipologia": "Tipo 2",
+		"indirizzo": "CENTRO SPORTIVO ESCHILO 2 VIA DEL FOSSO DI DRAGONELLO 201  ROMA",
+		"latitude": 41.892916,
+		"longitude": 12.48252
+	}, {
+		"nome": "Sede 123",
+		"stato": 1,
+		"ip": "10.1.2.123",
+		"tipologia": "Tipo 2",
+		"indirizzo": "PIAZZA BARBERINI 5 ROMA",
+		"latitude": 41.904681,
+		"longitude": 12.485744
+	}, {
+		"nome": "Sede 124",
+		"stato": 1,
+		"ip": "10.1.2.124",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA GOLAMETTO 10 PIANO TERRA INTERNO XI    ROMA",
+		"latitude": 41.892916,
+		"longitude": 12.48252
+	}, {
+		"nome": "Sede 125",
+		"stato": 1,
+		"ip": "10.1.2.125",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA GERMANICO 67   ROMA",
+		"latitude": 41.907648,
+		"longitude": 12.457427
+	}, {
+		"nome": "Sede 126",
+		"stato": 1,
+		"ip": "10.1.2.126",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA OLEVANO ROMANO 17-19   ROMA",
+		"latitude": 41.893639,
+		"longitude": 12.555232
+	}, {
+		"nome": "Sede 127",
+		"stato": 1,
+		"ip": "10.1.2.127",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA DEI CANNETACCI 50  MENTANA",
+		"latitude": 42.04534,
+		"longitude": 12.6338
+	}, {
+		"nome": "Sede 128",
+		"stato": 1,
+		"ip": "10.1.2.128",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA ANTONIO ROITI 8    ROMA",
+		"latitude": 41.862367,
+		"longitude": 12.46939
+	}, {
+		"nome": "Sede 129",
+		"stato": 1,
+		"ip": "10.1.2.129",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA PIETRO COSSA 3 ROMA",
+		"latitude": 41.906936,
+		"longitude": 12.47325
+	}, {
+		"nome": "Sede 130",
+		"stato": 1,
+		"ip": "10.1.2.130",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA FLAMINIA 173 PIANO 1 INT B ROMA",
+		"latitude": 41.919642,
+		"longitude": 12.4726
+	}, {
+		"nome": "Sede 131",
+		"stato": 1,
+		"ip": "10.1.2.131",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA DELLA CONSULTA 3   ROMA",
+		"latitude": 41.898348,
+		"longitude": 12.488969
+	}, {
+		"nome": "Sede 132",
+		"stato": 1,
+		"ip": "10.1.2.132",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA LUIGI BIOLCHINI 21 ROMA",
+		"latitude": 41.868048,
+		"longitude": 12.465721
+	}, {
+		"nome": "Sede 133",
+		"stato": 1,
+		"ip": "10.1.2.133",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIALE GIULIO CESARE 130    ROMA",
+		"latitude": 41.908981,
+		"longitude": 12.455614
+	}, {
+		"nome": "Sede 134",
+		"stato": 1,
+		"ip": "10.1.2.134",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA F.SAVERIO SPROVIERI 53 ROMA",
+		"latitude": 41.882677,
+		"longitude": 12.458918
+	}, {
+		"nome": "Sede 135",
+		"stato": 1,
+		"ip": "10.1.2.135",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA GIACOMO LAURENZANI 46  ROMA",
+		"latitude": 41.872026,
+		"longitude": 12.625868
+	}, {
+		"nome": "Sede 136",
+		"stato": 1,
+		"ip": "10.1.2.136",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA PIAVE N. 27    FRASCATI",
+		"latitude": 41.784258,
+		"longitude": 12.680369
+	}, {
+		"nome": "Sede 137",
+		"stato": 1,
+		"ip": "10.1.2.137",
+		"tipologia": "Tipo 2",
+		"indirizzo": "PIAZZA DI VILLA CARPEGNA 42/C  ROMA",
+		"latitude": 41.895185,
+		"longitude": 12.429735
+	}, {
+		"nome": "Sede 138",
+		"stato": 1,
+		"ip": "10.1.2.138",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA ANTONIO PROVOLO 21/23  ROMA",
+		"latitude": 41.939694,
+		"longitude": 12.575171
+	}, {
+		"nome": "Sede 139",
+		"stato": 1,
+		"ip": "10.1.2.139",
+		"tipologia": "Tipo 2",
+		"indirizzo": "PIAZZA NOSTRA SIGNORA DI GUADALUPE 4   ROMA",
+		"latitude": 41.9432,
+		"longitude": 12.423755
+	}, {
+		"nome": "Sede 140",
+		"stato": 1,
+		"ip": "10.1.2.140",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA DELLA BALDUINA 166 ROMA",
+		"latitude": 41.921459,
+		"longitude": 12.43832
+	}, {
+		"nome": "Sede 141",
+		"stato": 1,
+		"ip": "10.1.2.141",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA DELL'ACQUA BULLICANTE 122/124  ROMA",
+		"latitude": 41.885038,
+		"longitude": 12.543465
+	}, {
+		"nome": "Sede 142",
+		"stato": 1,
+		"ip": "10.1.2.142",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA MONTE PRANDONE 25  ROMA",
+		"latitude": 41.916026,
+		"longitude": 12.729233
+	}, {
+		"nome": "Sede 143",
+		"stato": 1,
+		"ip": "10.1.2.143",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA GIOVANNI ANSALDO N.3/G ROMA",
+		"latitude": 41.863885,
+		"longitude": 12.484502
+	}, {
+		"nome": "Sede 144",
+		"stato": 1,
+		"ip": "10.1.2.144",
+		"tipologia": "Tipo 2",
+		"indirizzo": "PIAZZA DEL COMUNE N. 15    ANGUILLARA SABAZIA",
+		"latitude": 42.092833,
+		"longitude": 12.269758
+	}, {
+		"nome": "Sede 145",
+		"stato": 1,
+		"ip": "10.1.2.145",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA ENRICO FERMI 10    ROMA",
+		"latitude": 41.864193,
+		"longitude": 12.469972
+	}, {
+		"nome": "Sede 146",
+		"stato": 1,
+		"ip": "10.1.2.146",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA ERATOSTENE N. 24   ROMA",
+		"latitude": 41.881786,
+		"longitude": 12.541318
+	}, {
+		"nome": "Sede 147",
+		"stato": 1,
+		"ip": "10.1.2.147",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA FRANCESCO AMICI 5/A    ROMA",
+		"latitude": 41.872606,
+		"longitude": 12.450159
+	}, {
+		"nome": "Sede 148",
+		"stato": 1,
+		"ip": "10.1.2.148",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA SELVA CANDIDA 382  ROMA",
+		"latitude": 41.939192,
+		"longitude": 12.37885
+	}, {
+		"nome": "Sede 149",
+		"stato": 1,
+		"ip": "10.1.2.149",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA GIOVANNI PASCOLI 33    TIVOLI",
+		"latitude": 41.955236,
+		"longitude": 12.715981
+	}, {
+		"nome": "Sede 150",
+		"stato": 1,
+		"ip": "10.1.2.150",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA XXV APRILE 32  GENZANO DI ROMA",
+		"latitude": 41.710705,
+		"longitude": 12.686662
+	}, {
+		"nome": "Sede 151",
+		"stato": 1,
+		"ip": "10.1.2.151",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA E. FRANCESCHINI 53 ROMA",
+		"latitude": 41.911731,
+		"longitude": 12.574754
+	}, {
+		"nome": "Sede 152",
+		"stato": 1,
+		"ip": "10.1.2.152",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA MILANO 58  ROMA",
+		"latitude": 41.898277,
+		"longitude": 12.490795
+	}, {
+		"nome": "Sede 153",
+		"stato": 1,
+		"ip": "10.1.2.153",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA CAVOUR 58  ROMA",
+		"latitude": 41.899534,
+		"longitude": 12.498258
+	}, {
+		"nome": "Sede 154",
+		"stato": 1,
+		"ip": "10.1.2.154",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA G. AMENDOLA 32 ROMA",
+		"latitude": 41.900337,
+		"longitude": 12.499308
+	}, {
+		"nome": "Sede 155",
+		"stato": 1,
+		"ip": "10.1.2.155",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA ARNO 14    NETTUNO",
+		"latitude": 41.458412,
+		"longitude": 12.654469
+	}, {
+		"nome": "Sede 156",
+		"stato": 1,
+		"ip": "10.1.2.156",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA BONCOMPAGNI 43 ROMA",
+		"latitude": 41.908571,
+		"longitude": 12.493815
+	}, {
+		"nome": "Sede 157",
+		"stato": 1,
+		"ip": "10.1.2.157",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA DELL'ESQUILINO 38 P. 3 SCALA C ROMA",
+		"latitude": 41.892916,
+		"longitude": 12.48252
+	}, {
+		"nome": "Sede 158",
+		"stato": 1,
+		"ip": "10.1.2.158",
+		"tipologia": "Tipo 2",
+		"indirizzo": "PIAZZA GUIDO GOZZANO N. 2  ROMA",
+		"latitude": 41.945,
+		"longitude": 12.559213
+	}, {
+		"nome": "Sede 159",
+		"stato": 1,
+		"ip": "10.1.2.159",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIALE TRASTEVERE 104   ROMA",
+		"latitude": 41.883072,
+		"longitude": 12.468862
+	}, {
+		"nome": "Sede 160",
+		"stato": 1,
+		"ip": "10.1.2.160",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA NOMENTANA 13   ROMA",
+		"latitude": 41.910444,
+		"longitude": 12.502753
+	}, {
+		"nome": "Sede 161",
+		"stato": 1,
+		"ip": "10.1.2.161",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA REATINA 3  MENTANA",
+		"latitude": 42.037773,
+		"longitude": 12.638645
+	}, {
+		"nome": "Sede 162",
+		"stato": 1,
+		"ip": "10.1.2.162",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA AURELIO SAFFI N. 10    MONTEROTONDO",
+		"latitude": 42.052408,
+		"longitude": 12.622418
+	}, {
+		"nome": "Sede 163",
+		"stato": 1,
+		"ip": "10.1.2.163",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA ALBA 26    ROMA",
+		"latitude": 41.880288,
+		"longitude": 12.5194
+	}, {
+		"nome": "Sede 164",
+		"stato": 1,
+		"ip": "10.1.2.164",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA ALBALONGA N. 74    ROMA",
+		"latitude": 41.880122,
+		"longitude": 12.513196
+	}, {
+		"nome": "Sede 165",
+		"stato": 1,
+		"ip": "10.1.2.165",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA F.PAOLINI 44   ROMA",
+		"latitude": 41.736149,
+		"longitude": 12.289938
+	}, {
+		"nome": "Sede 166",
+		"stato": 1,
+		"ip": "10.1.2.166",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA PORTO INNOCENZIANO 18  ANZIO",
+		"latitude": 41.445243,
+		"longitude": 12.630432
+	}, {
+		"nome": "Sede 167",
+		"stato": 1,
+		"ip": "10.1.2.167",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA ALESSANDRIA 98/98A ROMA",
+		"latitude": 41.911868,
+		"longitude": 12.502775
+	}, {
+		"nome": "Sede 168",
+		"stato": 1,
+		"ip": "10.1.2.168",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA TARQUINIO PRISCO 69/71 ROMA",
+		"latitude": 41.87774,
+		"longitude": 12.52314
+	}, {
+		"nome": "Sede 169",
+		"stato": 1,
+		"ip": "10.1.2.169",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA ROMA 27    ANZIO",
+		"latitude": 41.451254,
+		"longitude": 12.624804
+	}, {
+		"nome": "Sede 170",
+		"stato": 1,
+		"ip": "10.1.2.170",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA LUDOVICO MICARA 41 ROMA",
+		"latitude": 41.893624,
+		"longitude": 12.438667
+	}, {
+		"nome": "Sede 171",
+		"stato": 1,
+		"ip": "10.1.2.171",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA MERULANA 272 P.3° INT.7    ROMA",
+		"latitude": 41.893812,
+		"longitude": 12.500929
+	}, {
+		"nome": "Sede 172",
+		"stato": 1,
+		"ip": "10.1.2.172",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA PRISCIANO 45/A 47/A    ROMA",
+		"latitude": 41.92535,
+		"longitude": 12.446673
+	}, {
+		"nome": "Sede 173",
+		"stato": 1,
+		"ip": "10.1.2.173",
+		"tipologia": "Tipo 2",
+		"indirizzo": "PIAZZA RISORGIMENTO N.51/52    ROMA",
+		"latitude": 41.9058,
+		"longitude": 12.45853
+	}, {
+		"nome": "Sede 174",
+		"stato": 1,
+		"ip": "10.1.2.174",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA DELLA MAGLIANELLA 126  ROMA",
+		"latitude": 41.894753,
+		"longitude": 12.37798
+	}, {
+		"nome": "Sede 175",
+		"stato": 1,
+		"ip": "10.1.2.175",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA TEVERE 44 PIANO 4 SC.1 INT. 8  ROMA",
+		"latitude": 41.892916,
+		"longitude": 12.48252
+	}, {
+		"nome": "Sede 176",
+		"stato": 1,
+		"ip": "10.1.2.176",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA PORTUENSE 319  ROMA",
+		"latitude": 41.866084,
+		"longitude": 12.460952
+	}, {
+		"nome": "Sede 177",
+		"stato": 1,
+		"ip": "10.1.2.177",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA CAVOUR N. 44   ROMA",
+		"latitude": 41.899526,
+		"longitude": 12.498804
+	}, {
+		"nome": "Sede 178",
+		"stato": 1,
+		"ip": "10.1.2.178",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA TIBURTINA N. 644/B ROMA",
+		"latitude": 41.925072,
+		"longitude": 12.572992
+	}, {
+		"nome": "Sede 179",
+		"stato": 1,
+		"ip": "10.1.2.179",
+		"tipologia": "Tipo 2",
+		"indirizzo": "LARGO BRANCACCIO 7 ROMA",
+		"latitude": 41.895074,
+		"longitude": 12.499759
+	}, {
+		"nome": "Sede 180",
+		"stato": 1,
+		"ip": "10.1.2.180",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA BRAGOZZI N. 12 OSTIA LIDO  ROMA",
+		"latitude": 41.733779,
+		"longitude": 12.27418
+	}, {
+		"nome": "Sede 181",
+		"stato": 1,
+		"ip": "10.1.2.181",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA DEL TRITONE  61/D  ROMA",
+		"latitude": 41.902714,
+		"longitude": 12.484695
+	}, {
+		"nome": "Sede 182",
+		"stato": 1,
+		"ip": "10.1.2.182",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA TIBURTINA N. 644/B ROMA",
+		"latitude": 41.925072,
+		"longitude": 12.572992
+	}, {
+		"nome": "Sede 183",
+		"stato": 1,
+		"ip": "10.1.2.183",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA BONCOMPAGNI 47 ROMA",
+		"latitude": 41.908586,
+		"longitude": 12.493858
+	}, {
+		"nome": "Sede 184",
+		"stato": 1,
+		"ip": "10.1.2.184",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA CAIO MARIO N. 23/25    ROMA",
+		"latitude": 41.909489,
+		"longitude": 12.460402
+	}, {
+		"nome": "Sede 185",
+		"stato": 1,
+		"ip": "10.1.2.185",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIALE PALMIRO TOGLIATTI 1613   ROMA",
+		"latitude": 41.91089,
+		"longitude": 12.571766
+	}, {
+		"nome": "Sede 186",
+		"stato": 1,
+		"ip": "10.1.2.186",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA FRANC. DI BENEDETTO 261    ROMA",
+		"latitude": 41.892916,
+		"longitude": 12.48252
+	}, {
+		"nome": "Sede 187",
+		"stato": 1,
+		"ip": "10.1.2.187",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA CIMONE 15  ROMA",
+		"latitude": 41.934618,
+		"longitude": 12.536479
+	}, {
+		"nome": "Sede 188",
+		"stato": 1,
+		"ip": "10.1.2.188",
+		"tipologia": "Tipo 2",
+		"indirizzo": "LARGO LUDOVICO QUARONI 35  ROMA",
+		"latitude": 41.870834,
+		"longitude": 12.407733
+	}, {
+		"nome": "Sede 189",
+		"stato": 1,
+		"ip": "10.1.2.189",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA FLAMINIA 104   CASTELNUOVO DI PORTO",
+		"latitude": 42.126357,
+		"longitude": 12.493277
+	}, {
+		"nome": "Sede 190",
+		"stato": 1,
+		"ip": "10.1.2.190",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA CONCA D'ORO 389    ROMA",
+		"latitude": 41.945161,
+		"longitude": 12.516838
+	}, {
+		"nome": "Sede 191",
+		"stato": 1,
+		"ip": "10.1.2.191",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA DI CASAL PALOCCO 24    ROMA",
+		"latitude": 41.746613,
+		"longitude": 12.356526
+	}, {
+		"nome": "Sede 192",
+		"stato": 1,
+		"ip": "10.1.2.192",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIALE TRIESTE 31   TIVOLI",
+		"latitude": 41.959651,
+		"longitude": 12.799073
+	}, {
+		"nome": "Sede 193",
+		"stato": 1,
+		"ip": "10.1.2.193",
+		"tipologia": "Tipo 2",
+		"indirizzo": "LARGO ITALIA 1 GUIDONIA MONTECELIO",
+		"latitude": 41.952528,
+		"longitude": 12.730177
+	}, {
+		"nome": "Sede 194",
+		"stato": 1,
+		"ip": "10.1.2.194",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA CRATI 1    ROMA",
+		"latitude": 41.927097,
+		"longitude": 12.509096
+	}, {
+		"nome": "Sede 195",
+		"stato": 1,
+		"ip": "10.1.2.195",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA BONCOMPAGNI 61 SC.2 INT.1  ROMA",
+		"latitude": 41.892916,
+		"longitude": 12.48252
+	}, {
+		"nome": "Sede 196",
+		"stato": 1,
+		"ip": "10.1.2.196",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA DEL VIMINALE 43    ROMA",
+		"latitude": 41.899845,
+		"longitude": 12.495039
+	}, {
+		"nome": "Sede 197",
+		"stato": 1,
+		"ip": "10.1.2.197",
+		"tipologia": "Tipo 2",
+		"indirizzo": "PIAZZA RIVAROLA 10 TIVOLI",
+		"latitude": 41.965822,
+		"longitude": 12.799246
+	}, {
+		"nome": "Sede 198",
+		"stato": 1,
+		"ip": "10.1.2.198",
+		"tipologia": "Tipo 2",
+		"indirizzo": "VIA LEONIDA BISSOLATI 54   ROMA",
+		"latitude": 41.90535,
+		"longitude": 12.492298
+	}, {
+		"nome": "Sede 199",
+		"stato": 1,
+		"ip": "10.1.2.199",
+		"tipologia": "Tipo 3",
+		"indirizzo": "CORSO TRIESTE N.85 PIANO RIALZATO INT.2    ROMA",
+		"latitude": 41.892916,
+		"longitude": 12.48252
+	}, {
+		"nome": "Sede 200",
+		"stato": 1,
+		"ip": "10.1.2.200",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA ABIGAILLE ZANETTA 20/22    ROMA",
+		"latitude": 41.814776,
+		"longitude": 12.508102
+	}, {
+		"nome": "Sede 201",
+		"stato": 1,
+		"ip": "10.1.2.201",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA G. GESMUNDO N. 3   GUIDONIA MONTECELIO",
+		"latitude": 41.95662,
+		"longitude": 12.755792
+	}, {
+		"nome": "Sede 202",
+		"stato": 1,
+		"ip": "10.1.2.202",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA AURELIO SAFFI 65   ALBANO LAZIALE",
+		"latitude": 41.729931,
+		"longitude": 12.660482
+	}, {
+		"nome": "Sede 203",
+		"stato": 1,
+		"ip": "10.1.2.203",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA FLAMINIA 54    ROMA",
+		"latitude": 41.913771,
+		"longitude": 12.475155
+	}, {
+		"nome": "Sede 204",
+		"stato": 1,
+		"ip": "10.1.2.204",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA NOMENTANA NUOVA 51 ROMA",
+		"latitude": 41.934165,
+		"longitude": 12.530686
+	}, {
+		"nome": "Sede 205",
+		"stato": 1,
+		"ip": "10.1.2.205",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA MONVALLE 10    ROMA",
+		"latitude": 41.892916,
+		"longitude": 12.48252
+	}, {
+		"nome": "Sede 206",
+		"stato": 1,
+		"ip": "10.1.2.206",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA LAURENTINA N. 629  ROMA",
+		"latitude": 41.82188,
+		"longitude": 12.480395
+	}, {
+		"nome": "Sede 207",
+		"stato": 1,
+		"ip": "10.1.2.207",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA  TEMPIO DELLA FORTUNA 40/B FIUMICINO",
+		"latitude": 41.768367,
+		"longitude": 12.229605
+	}, {
+		"nome": "Sede 208",
+		"stato": 1,
+		"ip": "10.1.2.208",
+		"tipologia": "Tipo 3",
+		"indirizzo": "CORSO MARCONI 57/B CIVITAVECCHIA",
+		"latitude": 42.093895,
+		"longitude": 11.790647
+	}, {
+		"nome": "Sede 209",
+		"stato": 1,
+		"ip": "10.1.2.209",
+		"tipologia": "Tipo 3",
+		"indirizzo": "LARGO LEONARDO MURIALDO 10 ALBANO LAZIALE",
+		"latitude": 41.728457,
+		"longitude": 12.658943
+	}, {
+		"nome": "Sede 210",
+		"stato": 1,
+		"ip": "10.1.2.210",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA 2 GIUGNO 26    TIVOLI",
+		"latitude": 41.961797,
+		"longitude": 12.798649
+	}, {
+		"nome": "Sede 211",
+		"stato": 1,
+		"ip": "10.1.2.211",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA LA GOLETTA 3   ROMA",
+		"latitude": 41.908069,
+		"longitude": 12.451852
+	}, {
+		"nome": "Sede 212",
+		"stato": 1,
+		"ip": "10.1.2.212",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA MAREMMA INFERIORE N. 64    GUIDONIA MONTECELIO",
+		"latitude": 41.958453,
+		"longitude": 12.7582
+	}, {
+		"nome": "Sede 213",
+		"stato": 1,
+		"ip": "10.1.2.213",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIALE DEL VIGNOLA 68/A ROMA",
+		"latitude": 41.926406,
+		"longitude": 12.463433
+	}, {
+		"nome": "Sede 214",
+		"stato": 1,
+		"ip": "10.1.2.214",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIALE MAZZINI N. 26    MONTEROTONDO",
+		"latitude": 42.051962,
+		"longitude": 12.622605
+	}, {
+		"nome": "Sede 215",
+		"stato": 1,
+		"ip": "10.1.2.215",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA MARCO CELIO RUFO 33    ROMA",
+		"latitude": 41.864451,
+		"longitude": 12.551268
+	}, {
+		"nome": "Sede 216",
+		"stato": 1,
+		"ip": "10.1.2.216",
+		"tipologia": "Tipo 3",
+		"indirizzo": "PIAZZA REGINA ELENA 25 MARCELLINA",
+		"latitude": 42.022273,
+		"longitude": 12.808773
+	}, {
+		"nome": "Sede 217",
+		"stato": 1,
+		"ip": "10.1.2.217",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA MONTE BIANCO 12    GUIDONIA MONTECELIO",
+		"latitude": 41.9811,
+		"longitude": 12.623484
+	}, {
+		"nome": "Sede 218",
+		"stato": 1,
+		"ip": "10.1.2.218",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIALE SAN LORENZO 57   ARDEA",
+		"latitude": 41.568078,
+		"longitude": 12.534908
+	}, {
+		"nome": "Sede 219",
+		"stato": 1,
+		"ip": "10.1.2.219",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIALE DI TOR MARANCIA 56   ROMA",
+		"latitude": 41.853287,
+		"longitude": 12.497618
+	}, {
+		"nome": "Sede 220",
+		"stato": 1,
+		"ip": "10.1.2.220",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA OLEVANO ROMANO 17/19   ROMA",
+		"latitude": 41.893639,
+		"longitude": 12.555232
+	}, {
+		"nome": "Sede 221",
+		"stato": 1,
+		"ip": "10.1.2.221",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA ALFONSO GATTO 65/67    ROMA",
+		"latitude": 41.810213,
+		"longitude": 12.481418
+	}, {
+		"nome": "Sede 222",
+		"stato": 1,
+		"ip": "10.1.2.222",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA VALMONTONE N. 35   ARTENA",
+		"latitude": 41.749753,
+		"longitude": 12.914889
+	}, {
+		"nome": "Sede 223",
+		"stato": 1,
+		"ip": "10.1.2.223",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA DEI SABELLI 94/96  ROMA",
+		"latitude": 41.898116,
+		"longitude": 12.517509
+	}, {
+		"nome": "Sede 224",
+		"stato": 1,
+		"ip": "10.1.2.224",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA BISSOLATI 76 P.7   ROMA",
+		"latitude": 41.904888,
+		"longitude": 12.492709
+	}, {
+		"nome": "Sede 225",
+		"stato": 1,
+		"ip": "10.2.3.4",
+		"tipologia": "Tipo 3",
+		"indirizzo": "RICCARDO LOMBARDI 6    ALBANO LAZIALE",
+		"latitude": 41.703963,
+		"longitude": 12.686705
+	}, {
+		"nome": "Sede 226",
+		"stato": 1,
+		"ip": "10.2.3.5",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA DELLA CONCILIAZIONE N. 24  ROMA",
+		"latitude": 41.90234,
+		"longitude": 12.462013
+	}, {
+		"nome": "Sede 227",
+		"stato": 1,
+		"ip": "10.2.3.6",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA DI PORTA MAGGIORE 33   ROMA",
+		"latitude": 41.892925,
+		"longitude": 12.511055
+	}, {
+		"nome": "Sede 228",
+		"stato": 1,
+		"ip": "10.2.3.7",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA ERMINIO MARCIAS 38 FIUMICINO",
+		"latitude": 41.757896,
+		"longitude": 12.239374
+	}, {
+		"nome": "Sede 229",
+		"stato": 1,
+		"ip": "10.2.3.8",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA LAMARMORA 13   POMEZIA",
+		"latitude": 41.673958,
+		"longitude": 12.497613
+	}, {
+		"nome": "Sede 230",
+		"stato": 1,
+		"ip": "10.2.3.9",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIALE CESARE PAVESE 77 ROMA",
+		"latitude": 41.817413,
+		"longitude": 12.478875
+	}, {
+		"nome": "Sede 231",
+		"stato": 1,
+		"ip": "10.2.3.10",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA VAL D'OSSOLA 66    ROMA",
+		"latitude": 41.935474,
+		"longitude": 12.528566
+	}, {
+		"nome": "Sede 232",
+		"stato": 1,
+		"ip": "10.2.3.11",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA CATANIA 74 ROMA",
+		"latitude": 41.909561,
+		"longitude": 12.520063
+	}, {
+		"nome": "Sede 233",
+		"stato": 1,
+		"ip": "10.2.3.12",
+		"tipologia": "Tipo 3",
+		"indirizzo": "CIRCONVALLAZIONE GIANICOLENSE 66   ROMA",
+		"latitude": 41.872595,
+		"longitude": 12.460373
+	}, {
+		"nome": "Sede 234",
+		"stato": 1,
+		"ip": "10.2.3.13",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA GIACOMO MATTEOTTI N. 10    CIVITAVECCHIA",
+		"latitude": 42.093438,
+		"longitude": 11.797598
+	}, {
+		"nome": "Sede 235",
+		"stato": 1,
+		"ip": "10.2.3.14",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA G. RONCACCI 18 MORLUPO",
+		"latitude": 42.149055,
+		"longitude": 12.502493
+	}, {
+		"nome": "Sede 236",
+		"stato": 1,
+		"ip": "10.2.3.15",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA NOMENTANA 877/A-B  ROMA",
+		"latitude": 41.941765,
+		"longitude": 12.553903
+	}, {
+		"nome": "Sede 237",
+		"stato": 1,
+		"ip": "10.2.3.16",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA TOR DE CONTI 33    ROMA",
+		"latitude": 41.893711,
+		"longitude": 12.487958
+	}, {
+		"nome": "Sede 238",
+		"stato": 1,
+		"ip": "10.2.3.17",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA BUONARROTI 140 CIVITAVECCHIA",
+		"latitude": 42.090279,
+		"longitude": 11.800237
+	}, {
+		"nome": "Sede 239",
+		"stato": 1,
+		"ip": "10.2.3.18",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA VALLE DELLA STORTA 16-16A  ROMA",
+		"latitude": 42.010327,
+		"longitude": 12.379046
+	}, {
+		"nome": "Sede 240",
+		"stato": 1,
+		"ip": "10.2.3.19",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA MICHELE AMARI 35   ROMA",
+		"latitude": 41.874847,
+		"longitude": 12.515394
+	}, {
+		"nome": "Sede 241",
+		"stato": 1,
+		"ip": "10.2.3.20",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIALE DEI PROMONTORI 134   ROMA",
+		"latitude": 41.73694,
+		"longitude": 12.293435
+	}, {
+		"nome": "Sede 242",
+		"stato": 1,
+		"ip": "10.2.3.21",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA BRUNO BUOZZI 148   VELLETRI",
+		"latitude": 41.68827,
+		"longitude": 12.780283
+	}, {
+		"nome": "Sede 243",
+		"stato": 1,
+		"ip": "10.2.3.22",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIALE DELLE PROVINCE 37    ROMA",
+		"latitude": 41.911278,
+		"longitude": 12.521112
+	}, {
+		"nome": "Sede 244",
+		"stato": 1,
+		"ip": "10.2.3.23",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA LAURENTINA N. 665/C    ROMA",
+		"latitude": 41.8191,
+		"longitude": 12.482115
+	}, {
+		"nome": "Sede 245",
+		"stato": 1,
+		"ip": "10.2.3.24",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA PIETRO FELTER 13   ROMA",
+		"latitude": 41.868156,
+		"longitude": 12.492572
+	}, {
+		"nome": "Sede 246",
+		"stato": 1,
+		"ip": "10.2.3.25",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA PIETRO FELTER 13   ROMA",
+		"latitude": 41.868156,
+		"longitude": 12.492572
+	}, {
+		"nome": "Sede 247",
+		"stato": 1,
+		"ip": "10.2.3.26",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA DOMENICO COMPARETTI 69/A   ROMA",
+		"latitude": 41.942846,
+		"longitude": 12.551187
+	}, {
+		"nome": "Sede 248",
+		"stato": 1,
+		"ip": "10.2.3.27",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA TIBULLO 16 ROMA",
+		"latitude": 41.906709,
+		"longitude": 12.462118
+	}, {
+		"nome": "Sede 249",
+		"stato": 1,
+		"ip": "10.2.3.28",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA DEL BOSCHETTO 46   ROMA",
+		"latitude": 41.897596,
+		"longitude": 12.490344
+	}, {
+		"nome": "Sede 250",
+		"stato": 1,
+		"ip": "10.2.3.29",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA A. BARBAZZA 118    ROMA",
+		"latitude": 41.917939,
+		"longitude": 12.410165
+	}, {
+		"nome": "Sede 251",
+		"stato": 1,
+		"ip": "10.2.3.30",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA DELLE FORNACI 135  ROMA",
+		"latitude": 41.896615,
+		"longitude": 12.457027
+	}, {
+		"nome": "Sede 252",
+		"stato": 1,
+		"ip": "10.2.3.31",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA DEGLI OPIMIANI 11  ROMA",
+		"latitude": 41.862525,
+		"longitude": 12.550924
+	}, {
+		"nome": "Sede 253",
+		"stato": 1,
+		"ip": "10.2.3.32",
+		"tipologia": "Tipo 3",
+		"indirizzo": "LARGO ASIOLI 5 ROMA",
+		"latitude": 41.892916,
+		"longitude": 12.48252
+	}, {
+		"nome": "Sede 254",
+		"stato": 1,
+		"ip": "10.2.3.33",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA TARANTO 93/A   ROMA",
+		"latitude": 41.884173,
+		"longitude": 12.516578
+	}, {
+		"nome": "Sede 255",
+		"stato": 1,
+		"ip": "10.2.3.34",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA SALARIA 1378   ROMA",
+		"latitude": 42.001966,
+		"longitude": 12.518319
+	}, {
+		"nome": "Sede 256",
+		"stato": 1,
+		"ip": "10.2.3.35",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA NAZIONALE 204  ROMA",
+		"latitude": 41.900036,
+		"longitude": 12.492103
+	}, {
+		"nome": "Sede 257",
+		"stato": 1,
+		"ip": "10.2.3.36",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA COSIMO DE GIORGI N. 8  ROMA",
+		"latitude": 41.92476,
+		"longitude": 12.542927
+	}, {
+		"nome": "Sede 258",
+		"stato": 1,
+		"ip": "10.2.3.37",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA DON GIOVANNI VERITA' 3 ROMA",
+		"latitude": 41.892916,
+		"longitude": 12.48252
+	}, {
+		"nome": "Sede 259",
+		"stato": 1,
+		"ip": "10.2.3.38",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA QUINTINO SELLA N. 20   ROMA",
+		"latitude": 41.907119,
+		"longitude": 12.496323
+	}, {
+		"nome": "Sede 260",
+		"stato": 1,
+		"ip": "10.2.3.39",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA TUSCOLANA N. 648   ROMA",
+		"latitude": 41.867893,
+		"longitude": 12.539981
+	}, {
+		"nome": "Sede 261",
+		"stato": 1,
+		"ip": "10.2.3.40",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA VITTORIO LOCCHI 3/A    ROMA",
+		"latitude": 41.924057,
+		"longitude": 12.492466
+	}, {
+		"nome": "Sede 262",
+		"stato": 1,
+		"ip": "10.2.3.41",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA MONTE FUMAIOLO 58  ROMA",
+		"latitude": 41.948067,
+		"longitude": 12.539018
+	}, {
+		"nome": "Sede 263",
+		"stato": 1,
+		"ip": "10.2.3.42",
+		"tipologia": "Tipo 3",
+		"indirizzo": "BARBARANO ROMANO 6 ROMA",
+		"latitude": 41.978644,
+		"longitude": 12.424661
+	}, {
+		"nome": "Sede 264",
+		"stato": 1,
+		"ip": "10.2.3.43",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA CASSIA N. 1269 ROMA",
+		"latitude": 41.983847,
+		"longitude": 12.409141
+	}, {
+		"nome": "Sede 265",
+		"stato": 1,
+		"ip": "10.2.3.44",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA DI CENTOCELLE N. 590-590/A ROMA",
+		"latitude": 41.865203,
+		"longitude": 12.554935
+	}, {
+		"nome": "Sede 266",
+		"stato": 1,
+		"ip": "10.2.3.45",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA ODERISI DA GUBBIO 235  ROMA",
+		"latitude": 41.863159,
+		"longitude": 12.464189
+	}, {
+		"nome": "Sede 267",
+		"stato": 1,
+		"ip": "10.2.3.46",
+		"tipologia": "Tipo 3",
+		"indirizzo": "PIAZZA DELLE IRIS 18/E ROMA",
+		"latitude": 41.888067,
+		"longitude": 12.567114
+	}, {
+		"nome": "Sede 268",
+		"stato": 1,
+		"ip": "10.2.3.47",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA IMPERIA 23 ROMA",
+		"latitude": 41.909166,
+		"longitude": 12.51507
+	}, {
+		"nome": "Sede 269",
+		"stato": 1,
+		"ip": "10.2.3.48",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA DELLA TENUTA DEL CASALOTTO 55/F    ROMA",
+		"latitude": 41.813732,
+		"longitude": 12.616265
+	}, {
+		"nome": "Sede 270",
+		"stato": 1,
+		"ip": "10.2.3.49",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA SARDEGNA 29    ROMA",
+		"latitude": 41.908992,
+		"longitude": 12.489609
+	}, {
+		"nome": "Sede 271",
+		"stato": 1,
+		"ip": "10.2.3.50",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA GUIDO D'AREZZO 16  ROMA",
+		"latitude": 41.921068,
+		"longitude": 12.493313
+	}, {
+		"nome": "Sede 272",
+		"stato": 1,
+		"ip": "10.2.3.51",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA DELLA STAZIONE DI CIAMPINO N. 41   ROMA",
+		"latitude": 41.811793,
+		"longitude": 12.61476
+	}, {
+		"nome": "Sede 273",
+		"stato": 1,
+		"ip": "10.2.3.52",
+		"tipologia": "Tipo 3",
+		"indirizzo": "VIA UNITA' D'ITALIA 44 CAMPAGNANO DI ROMA",
+		"latitude": 42.136887,
+		"longitude": 12.381622
+	}, {
+		"nome": "Sede 274",
+		"stato": 1,
+		"ip": "10.2.3.53",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA  PIRGO 20  ROMA",
+		"latitude": 41.880009,
+		"longitude": 12.506892
+	}, {
+		"nome": "Sede 275",
+		"stato": 1,
+		"ip": "10.2.3.54",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VICOLO DELLE PALLINE N. 8/9    ROMA",
+		"latitude": 41.903553,
+		"longitude": 12.460327
+	}, {
+		"nome": "Sede 276",
+		"stato": 1,
+		"ip": "10.2.3.55",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIALE GARIBALDI 42 CIVITAVECCHIA",
+		"latitude": 42.089185,
+		"longitude": 11.795443
+	}, {
+		"nome": "Sede 277",
+		"stato": 1,
+		"ip": "10.2.3.56",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA GREGORIANA 54  ROMA",
+		"latitude": 41.904435,
+		"longitude": 12.485232
+	}, {
+		"nome": "Sede 278",
+		"stato": 1,
+		"ip": "10.2.3.57",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA ALESSANDRO MARCHETTI 111   ROMA",
+		"latitude": 41.830965,
+		"longitude": 12.396035
+	}, {
+		"nome": "Sede 279",
+		"stato": 1,
+		"ip": "10.2.3.58",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA TOMMASO D'AQUINO 118   ROMA",
+		"latitude": 41.914159,
+		"longitude": 12.449965
+	}, {
+		"nome": "Sede 280",
+		"stato": 1,
+		"ip": "10.2.3.59",
+		"tipologia": "Tipo 4",
+		"indirizzo": "PIAZZA RAGUSA 63   ROMA",
+		"latitude": 41.716454,
+		"longitude": 12.617097
+	}, {
+		"nome": "Sede 281",
+		"stato": 1,
+		"ip": "10.2.3.60",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA DOMENICO MILLELIRE N. 13   ROMA",
+		"latitude": 41.905084,
+		"longitude": 12.446697
+	}, {
+		"nome": "Sede 282",
+		"stato": 1,
+		"ip": "10.2.3.61",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA FLAMINIA 86    RIGNANO FLAMINIO",
+		"latitude": 42.210752,
+		"longitude": 12.480963
+	}, {
+		"nome": "Sede 283",
+		"stato": 1,
+		"ip": "10.2.3.62",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA DI SANT'EUFEMIA 15 ROMA",
+		"latitude": 41.896335,
+		"longitude": 12.484607
+	}, {
+		"nome": "Sede 284",
+		"stato": 1,
+		"ip": "10.2.3.63",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA GREGORIO VII 96    ROMA",
+		"latitude": 41.895764,
+		"longitude": 12.448626
+	}, {
+		"nome": "Sede 285",
+		"stato": 1,
+		"ip": "10.2.3.64",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA SICILIA  66    ROMA",
+		"latitude": 41.908718,
+		"longitude": 12.49127
+	}, {
+		"nome": "Sede 286",
+		"stato": 1,
+		"ip": "10.2.3.65",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIALE  PINETA SACCHETTI 205    ROMA",
+		"latitude": 41.928315,
+		"longitude": 12.426508
+	}, {
+		"nome": "Sede 287",
+		"stato": 1,
+		"ip": "10.2.3.66",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA FRANCESCO SIACCI 42    ROMA",
+		"latitude": 41.922551,
+		"longitude": 12.487338
+	}, {
+		"nome": "Sede 288",
+		"stato": 1,
+		"ip": "10.2.3.67",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA DEL TRULLO 214/A   ROMA",
+		"latitude": 41.845888,
+		"longitude": 12.435672
+	}, {
+		"nome": "Sede 289",
+		"stato": 1,
+		"ip": "10.2.3.68",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA DI PORTA MAGGIORE 29   ROMA",
+		"latitude": 41.892941,
+		"longitude": 12.510796
+	}, {
+		"nome": "Sede 290",
+		"stato": 1,
+		"ip": "10.2.3.69",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA BISSOLATI N. 76    ROMA",
+		"latitude": 41.905105,
+		"longitude": 12.4927
+	}, {
+		"nome": "Sede 291",
+		"stato": 1,
+		"ip": "10.2.3.70",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA GIUSEPPE MIRRI 38  ROMA",
+		"latitude": 41.90347,
+		"longitude": 12.538753
+	}, {
+		"nome": "Sede 292",
+		"stato": 1,
+		"ip": "10.2.3.71",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA A. POERIO 22   ROMA",
+		"latitude": 41.881334,
+		"longitude": 12.463251
+	}, {
+		"nome": "Sede 293",
+		"stato": 1,
+		"ip": "10.2.3.72",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA DEI RETI  28/A ROMA",
+		"latitude": 41.898862,
+		"longitude": 12.518095
+	}, {
+		"nome": "Sede 294",
+		"stato": 1,
+		"ip": "10.2.3.73",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA ANCO MARZIO 56 FIUMICINO",
+		"latitude": 41.76806,
+		"longitude": 12.227362
+	}, {
+		"nome": "Sede 295",
+		"stato": 1,
+		"ip": "10.2.3.74",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA PIAVE 54/56    ROMA",
+		"latitude": 41.909544,
+		"longitude": 12.498272
+	}, {
+		"nome": "Sede 296",
+		"stato": 1,
+		"ip": "10.2.3.75",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA DEGLI SCIPIONI 292 ROMA",
+		"latitude": 41.911506,
+		"longitude": 12.470098
+	}, {
+		"nome": "Sede 297",
+		"stato": 1,
+		"ip": "10.3.4.5",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIALE MAZZINI 21/23    ROMA",
+		"latitude": 41.915473,
+		"longitude": 12.463051
+	}, {
+		"nome": "Sede 298",
+		"stato": 1,
+		"ip": "10.3.4.6",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA MONTECASSIANO 179  ROMA",
+		"latitude": 41.943531,
+		"longitude": 12.571907
+	}, {
+		"nome": "Sede 299",
+		"stato": 1,
+		"ip": "10.3.4.7",
+		"tipologia": "Tipo 4",
+		"indirizzo": "LARGO ITALIA 1 GUIDONIA MONTECELIO",
+		"latitude": 41.952528,
+		"longitude": 12.730177
+	}, {
+		"nome": "Sede 300",
+		"stato": 1,
+		"ip": "10.3.4.8",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA DELLA MELORIA N. 64    ROMA",
+		"latitude": 41.90687,
+		"longitude": 12.446491
+	}, {
+		"nome": "Sede 301",
+		"stato": 1,
+		"ip": "10.3.4.9",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA FRASCATI N. 19 MONTEPORZIO CATONE",
+		"latitude": 41.813325,
+		"longitude": 12.710925
+	}, {
+		"nome": "Sede 302",
+		"stato": 1,
+		"ip": "10.3.4.10",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA DEL MARE 15    ALBANO LAZIALE",
+		"latitude": 41.724034,
+		"longitude": 12.609371
+	}, {
+		"nome": "Sede 303",
+		"stato": 1,
+		"ip": "10.3.4.11",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA APPIA NUOVA N. 7/A ARICCIA",
+		"latitude": 41.720343,
+		"longitude": 12.678295
+	}, {
+		"nome": "Sede 304",
+		"stato": 1,
+		"ip": "10.3.4.12",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA FABIO NUMIDIO 20/22    ROMA",
+		"latitude": 41.892916,
+		"longitude": 12.48252
+	}, {
+		"nome": "Sede 305",
+		"stato": 1,
+		"ip": "10.3.4.13",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA  ANGUILLARESE 94/A ANGUILLARA SABAZIA",
+		"latitude": 42.07717,
+		"longitude": 12.289262
+	}, {
+		"nome": "Sede 306",
+		"stato": 1,
+		"ip": "10.3.4.14",
+		"tipologia": "Tipo 4",
+		"indirizzo": "PIAZZA CAIROLI 2   ROMA",
+		"latitude": 41.893393,
+		"longitude": 12.475075
+	}, {
+		"nome": "Sede 307",
+		"stato": 1,
+		"ip": "10.3.4.15",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA DEL BOSCHETTO 32   ROMA",
+		"latitude": 41.894704,
+		"longitude": 12.48971
+	}, {
+		"nome": "Sede 308",
+		"stato": 1,
+		"ip": "10.3.4.16",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA DEI PROMONTORI 386 ROMA",
+		"latitude": 41.734956,
+		"longitude": 12.299068
+	}, {
+		"nome": "Sede 309",
+		"stato": 1,
+		"ip": "10.3.4.17",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA G. ROMAGNOSI 18/A  ROMA",
+		"latitude": 41.912167,
+		"longitude": 12.473843
+	}, {
+		"nome": "Sede 310",
+		"stato": 1,
+		"ip": "10.3.4.18",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA LUCULLO 3  ROMA",
+		"latitude": 41.906074,
+		"longitude": 12.493213
+	}, {
+		"nome": "Sede 311",
+		"stato": 1,
+		"ip": "10.3.4.19",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA FERRUCCIO 40/42    ROMA",
+		"latitude": 41.892821,
+		"longitude": 12.503854
+	}, {
+		"nome": "Sede 312",
+		"stato": 1,
+		"ip": "10.3.4.20",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA CASILINA 1854/B    ROMA",
+		"latitude": 41.862667,
+		"longitude": 12.686964
+	}, {
+		"nome": "Sede 313",
+		"stato": 1,
+		"ip": "10.3.4.21",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA TIBERIO IMPERATORE 41  ROMA",
+		"latitude": 41.852752,
+		"longitude": 12.485614
+	}, {
+		"nome": "Sede 314",
+		"stato": 1,
+		"ip": "10.3.4.22",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA TAGLIAMENTO 53/A   ROMA",
+		"latitude": 41.920959,
+		"longitude": 12.504082
+	}, {
+		"nome": "Sede 315",
+		"stato": 1,
+		"ip": "10.3.4.23",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA ABATE DI TIVOLI 2/4/6  ROMA",
+		"latitude": 41.942194,
+		"longitude": 12.621459
+	}, {
+		"nome": "Sede 316",
+		"stato": 1,
+		"ip": "10.3.4.24",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA POGGI D'ORO N. 62/64   ROMA",
+		"latitude": 41.870161,
+		"longitude": 12.529112
+	}, {
+		"nome": "Sede 317",
+		"stato": 1,
+		"ip": "10.3.4.25",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA F. CORRIDONI 31    SAN CESAREO",
+		"latitude": 41.82125,
+		"longitude": 12.79971
+	}, {
+		"nome": "Sede 318",
+		"stato": 1,
+		"ip": "10.3.4.26",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA DELLE GIUNGHIGLIE 5/7  ROMA",
+		"latitude": 41.880521,
+		"longitude": 12.565047
+	}, {
+		"nome": "Sede 319",
+		"stato": 1,
+		"ip": "10.3.4.27",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA PALMIRO TOGLIATTI 1663 ROMA",
+		"latitude": 41.892422,
+		"longitude": 12.561649
+	}, {
+		"nome": "Sede 320",
+		"stato": 1,
+		"ip": "10.3.4.28",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA G.GARIBALDI 33 TREVIGNANO ROMANO",
+		"latitude": 42.155166,
+		"longitude": 12.246358
+	}, {
+		"nome": "Sede 321",
+		"stato": 1,
+		"ip": "10.3.4.29",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA ORTI DELLA FARNESINA 12/C  ROMA",
+		"latitude": 41.939594,
+		"longitude": 12.463958
+	}, {
+		"nome": "Sede 322",
+		"stato": 1,
+		"ip": "10.3.4.30",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA DEI FRASSINI 162   ROMA",
+		"latitude": 41.885533,
+		"longitude": 12.568424
+	}, {
+		"nome": "Sede 323",
+		"stato": 1,
+		"ip": "10.3.4.31",
+		"tipologia": "Tipo 4",
+		"indirizzo": "P.ZZA GIOVANNI FALCONE 26  LADISPOLI",
+		"latitude": 41.95567,
+		"longitude": 12.07098
+	}, {
+		"nome": "Sede 324",
+		"stato": 1,
+		"ip": "10.3.4.32",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA ROMA 13    ALLUMIERE",
+		"latitude": 42.155987,
+		"longitude": 11.903627
+	}, {
+		"nome": "Sede 325",
+		"stato": 1,
+		"ip": "10.3.4.33",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA CASTELBOTTACCIO 32/C   ROMA",
+		"latitude": 41.930091,
+		"longitude": 12.643425
+	}, {
+		"nome": "Sede 326",
+		"stato": 1,
+		"ip": "10.3.4.34",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA PROPEZIO 21    ROMA",
+		"latitude": 41.905658,
+		"longitude": 12.461315
+	}, {
+		"nome": "Sede 327",
+		"stato": 1,
+		"ip": "10.3.4.35",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA LIBERO LEONARDI 4  ROMA",
+		"latitude": 41.848793,
+		"longitude": 12.592267
+	}, {
+		"nome": "Sede 328",
+		"stato": 1,
+		"ip": "10.3.4.36",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA UGO FOSCOLO 30 ROMA",
+		"latitude": 41.944223,
+		"longitude": 12.651563
+	}, {
+		"nome": "Sede 329",
+		"stato": 1,
+		"ip": "10.3.4.37",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA OSTILIA 8-10   ROMA",
+		"latitude": 41.889233,
+		"longitude": 12.495285
+	}, {
+		"nome": "Sede 330",
+		"stato": 1,
+		"ip": "10.3.4.38",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA TORINO 3/A ROMA",
+		"latitude": 41.899192,
+		"longitude": 12.497085
+	}, {
+		"nome": "Sede 331",
+		"stato": 1,
+		"ip": "10.3.4.39",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA PORTUENSE 2470 FIUMICINO",
+		"latitude": 41.772623,
+		"longitude": 12.23971
+	}, {
+		"nome": "Sede 332",
+		"stato": 1,
+		"ip": "10.3.4.40",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA GREGORIO VII 329/331   ROMA",
+		"latitude": 41.896312,
+		"longitude": 12.441563
+	}, {
+		"nome": "Sede 333",
+		"stato": 1,
+		"ip": "10.3.4.41",
+		"tipologia": "Tipo 4",
+		"indirizzo": "VIA PAOLO STOPPA N. 51 ROMA",
+		"latitude": 41.785513,
+		"longitude": 12.391228
+	}
+]

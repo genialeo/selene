@@ -11,6 +11,7 @@
     <!-- JavaScript -->
     <script src="https://maps.googleapis.com/maps/api/js?libraries=geometry&sensor=false"></script>
     <script src="assets/js/jquery-1.10.2.min.js"></script>
+    <script src="assets/js/underscore-min.js"></script>
     <script src="assets/js/bootstrap.js"></script>
 
   </head>
@@ -35,9 +36,8 @@
         <div class="collapse navbar-collapse navbar-ex1-collapse">
           
           <ul class="nav navbar-nav side-nav" id="left-panel">
-            <li class="active"><a href="index.html"><i class="fa fa-dashboard"></i> Uno</a></li>
-            <li><a href="charts.html"><i class="fa fa-bar-chart-o"></i> Due</a></li>
-            <li><a href="tables.html"><i class="fa fa-table"></i> Tre</a></li>
+            <li class="active"><a href="#" data-tipo="tutte"><i class="fa fa-dashboard"></i> Tutte le sedi</a></li>
+            <li><a href="#"  data-tipo="down"><i class="fa fa-bar-chart-o"></i> Sedi down</a></li>
           </ul>
 
           <ul class="nav navbar-nav" id="main-navbar">
@@ -49,21 +49,19 @@
               </form>
             </li>
             <li class="dropdown">
-              <button class="btn dropdown-toggle navbar-btn" type="button" id="dropdownMenu1" data-toggle="dropdown">
+              <button class="btn dropdown-toggle navbar-btn" type="button" id="cercaDD" data-toggle="dropdown">
                 Cosa
                 <span class="caret"></span>
               </button>
-              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+              <ul class="dropdown-menu" role="menu" aria-labelledby="cercaDD">
                 <li role="presentation" class="dropdown-header">Per distanza</li>
                 <li role="presentation"><a href="#" data-cosa="5">Entro 5 Km</a></li>
                 <li role="presentation"><a href="#" data-cosa="25">Entro 25 Km</a></li>
                 <li role="presentation"><a href="#" data-cosa="100">Entro 100 Km</a></li>
                 <li role="presentation" class="divider"></li>
                 <li role="presentation" class="dropdown-header">Per altre proprietà</li>
-                <li role="presentation"><a href="#" data-cosa="ip_sede">IP Address</a></li>
-                <li role="presentation"><a href="#" data-cosa="alias">Alias</a></li>
-                <li role="presentation"><a href="#" data-cosa="cpe">CPE</a></li>
-                <li role="presentation"><a href="#" data-cosa="codice_nis">Codice</a></li>
+                <li role="presentation"><a href="#" data-cosa="ip">IP Address</a></li>
+                <li role="presentation"><a href="#" data-cosa="title">Nome</a></li>
               </ul>
             </li>
           </ul>
@@ -78,9 +76,116 @@
 
     <!-- JavaScript -->
     <script src="assets/js/app.js"></script>
-    <script type="text/javascript">     
+    <script type="text/javascript">  
+
+      $(document).ready(function() {
+
+        $('#left-panel li a').on('click', function () {
+          var categoria = $(this).data('tipo');
+          $('#left-panel li').removeClass("active");
+          $(this).parent().addClass("active");
+          selene.mark(categoria);
+        });
+
+        $('#main-navbar li.dropdown ul.dropdown-menu li').on('click', function () {
+          var dove = $(this).find('a').data('cosa');
+          var cosa = $('#main-navbar.nav li form div input').val();
+          var testo = $(this).find('a').html();
+          selene.cerca(cosa, dove);
+        });
+
+    });
+
       google.maps.event.addDomListener(window, 'load', function () {selene.init();});
       google.maps.event.addDomListener(window, 'resize', function () {selene.resize();});
     </script>
+
+    <script type="text/template" id="infoboxTPL">
+      <ul class="nav nav-pills" id="mrtgTab">
+        <li class="active"><a href="#dettagli" data-toggle="tab">Dettagli</a></li>
+        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">MRTG <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="#day" data-toggle="tab">Giorno</a></li>
+            <li><a href="#week" data-toggle="tab">Settimana</a></li>
+            <li><a href="#month" data-toggle="tab">Mese</a></li>
+            <li><a href="#year" data-toggle="tab">Anno</a></li>
+          </ul>
+          <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Azioni <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="#ping" data-toggle="tab">Ping</a></li>
+              <li><a href="#tracert" data-toggle="tab">Tracert</a></li>
+            </ul>
+          </li>
+        </li>
+      </ul>
+    </script>
+
+    <script type="text/template" id="infoboxDettagliTPL">
+      <br>
+      <div id="dettagli" class="tab-pane fade active in" style="margin-bottom: 10px">
+        <table class="table table-condensed">
+          <tr><th colspan="2"><%= nome %></th></tr>
+          <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+          <tr><th>Indirizzo:</th><td><%= indirizzo %></td></tr>
+          <tr><th>Tipologia;:</th><td><%= tipologia %></td></tr>
+                  <tr><th>Stato:</th><td><%= stato %></td></tr>
+          <tr><th>Ip:</th><td><%= ip %></td></tr>
+        </table>
+      </div>
+    </script>
+
+    <script type="text/template" id="infoboxMRTGTPL">
+    <% _.each(img, function (im) { %>
+      <div id="<%= im.id %>" class="tab-pane fade" style="margin-bottom: 10px">
+        <h4><%= im.titolo %></h4>
+        <img src="<%= im.img %>">
+        <%= im.dati %>
+        <h6>Aggiornato:<%= data %></h6>
+      </div>
+    <%  }) %>
+  </script>
+
+  <script type="text/template" id="emptyMRTGTPL">
+    <% _.each(ids, function (id) { %>
+      <div id="<%= id %>" class="tab-pane fade" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="span3 offset2">
+              <h4><i class="icon-spinner icon-spin icon-3x"></i> Attendere...</h4>
+            </div>
+        </div>
+      </div>
+    <%  }) %>
+  </script>
+
+  <script type="text/template" id="errorMRTGTPL">
+    <% _.each(ids, function (id) { %>
+      <div id="<%= id %>" class="tab-pane fade" style="margin-bottom: 10px;">
+          <h4><i class="icon-exclamation-sign icon-3x"></i> Problemi di accesso al server MRTG o dati non trovati.</h4>
+      </div>
+    <%  }) %>
+  </script>
+
+    <script type="text/template" id="pingPanel">
+      <div id="ping" class="tab-pane fade" style="margin-bottom: 10px;">
+        <form class="navbar-form navbar-left" role="search">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="<%= ip%>">
+          </div>
+          <button type="button" class="btn btn-default" id="pingButton">Ping</button>
+        </form>
+      </div>
+    </script>
+
+    <script type="text/template" id="tracertPanel">
+      <div id="tracert" class="tab-pane fade" style="margin-bottom: 10px;">
+        <form class="navbar-form navbar-left" role="search">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="<%= ip%>">
+          </div>
+          <button type="button" class="btn btn-default" id="tracertButton">Tracert</button>
+        </form>
+      </div>
+    </script>
+
   </body>
 </html>
