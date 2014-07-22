@@ -13,7 +13,7 @@ Le caratteristiche principali dell' applicazione sono:
 * utilizzo di ping e tracert all'interno dell'applicazione
 * interfaccia con sistemi di trouble ticketing ove presenti
 
-![Selene Mockup](http://blog.genialeo.it/content/images/2014/Jan/seleneMockup.gif)
+![Selene Mockup](http://blog.genialeo.it/content/images/2014/Jun/seleneMockup.gif)
 
 I dettagli nel mio [blog](http://blog.genialeo.it/selene-and-maps)
 
